@@ -1,0 +1,15 @@
+
+
+El archivo html incluido prueba.html lo he utilizado para comprobar el funcionamiento de la clase Year.
+Muestra el calendario del mes de febrero de 2016,con el primer día de la semana en Domingo
+ y configurando como festivos los días 25 y 27 de este mes.
+ Se mostrarán:
+- los domingos con el fondo naranja
+- los días festivos con el fondo naranja y color de texto blanco
+- el díaa de hoy en rojo y subrayado
+
+Además mostrará  después del calendario:
+- fechas de las vacaciones (para comprobar uso de getHolidays())
+- semana nº 5 del mes
+- si el año de la instancia es bisiesto o no
+

@@ -1,0 +1,39 @@
+html {
+    font-family: 'Arial';
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+    border: black 3px solid;
+}
+
+
+td {
+    border-collapse: collapse;
+    border: black 3px solid;
+	
+}
+tr th {
+   border-collapse: collapse;
+   border: black 3px solid;
+   width: 40px;
+   padding: 12px 12px 12px 12px;  	
+}
+
+.holidays {
+    background-color:coral;
+    color:white;
+}
+
+.sunday{
+    background-color:coral;    
+}
+
+.today{
+    text-decoration: underline;
+    text-decoration-color: red;
+    color:red;
+}
+
+
